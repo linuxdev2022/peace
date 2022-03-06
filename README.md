@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on decentralized server applications.
 - 📫 How to reach me: rick@linuxdev.work
-Peace
--Rick
+- Peace
+- -Rick
